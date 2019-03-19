@@ -25,7 +25,8 @@
 
 					<!-- footer copyright -->
 					<div class="footer-copyright">
-						<p>Copyright © 2019. Nigeria French Language Village. All Rights Reserved.</p>
+						<p>Copyright © <?php echo date("Y");?>. Nigeria French Language Village. All Rights Reserved.</p>
+
 					</div>
 					<!-- /footer copyright -->
 
