@@ -1,0 +1,52 @@
+.nav-pad{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.logo-pad{
+	padding-top: 10px;
+	margin-left: 10px;
+}
+.outln{
+	outline-color: #29156e;
+}
+.bg-facebook{
+	background-color: #3b5998!important;
+}
+.bg-twitter{
+	background-color: #38A1F3!important;
+}
+.bg-linkedin{
+	background-color: #0077B5!important;
+}
+.bg-google-plus{
+	background-color: #cc3939!important;
+}
+.link-font{
+    font-size: 18px!important;
+}
+.read-more .btn.focus, .btn:focus, .btn:hover{
+	color: #ece9e9!important;	
+}
+.read-more-pointer{
+	pointer-events: 
+}
+.text-left{
+	text-align: left!important;
+}
+.breadcrumb {
+    color: white;
+    padding: 15px 15px;
+    margin-bottom: 20px;
+    list-style: none;
+    background-color: unset;
+    border-radius: unset; 
+}
+.breadcrumb>.active {
+    color: #bbbbb9;
+}
+.crumb{
+	color: white!important;
+}
+.head-mg{
+	margin-top: 85px!important;
+}
